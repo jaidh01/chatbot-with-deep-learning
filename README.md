@@ -80,7 +80,7 @@ We welcome contributions to improve the chatbot! Please follow these steps:
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or reach out to [your-email@example.com](jaidhingra402@gmail.com).
+If you have any questions or suggestions, feel free to open an issue or reach out to (jaidhingra402@gmail.com).
 
 ---
 
