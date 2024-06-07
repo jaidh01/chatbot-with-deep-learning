@@ -1,8 +1,8 @@
 # Just copy and run these commands...
-pip install tensorflow (version == 2.1.0)
-pip install nltk (version == 3.6.5)
+pip install tensorflow 
+pip install nltk 
 pip install joblib
-pip install numpy (version == 1.19.2)
-pip install tflearn (version == 0.5.0, requires :- Pillow, numpy, six)
+pip install numpy
+pip install tflearn 
 
 # python version which worked for me :- 3.6.13 ( the upper version raising an error with tensorflow v2 ).
