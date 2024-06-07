@@ -2,8 +2,8 @@ import streamlit as st
 
 st.write("Installing nltk...")
 st.code("pip install nltk")
-st.write("pip show nltk")
-st.code("nltk installed!")
+st.code("pip show nltk")
+st.write("nltk installed!")
 
 
 import nltk
