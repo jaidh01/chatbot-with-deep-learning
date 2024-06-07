@@ -1,8 +1,0 @@
-# Just copy and run these commands...
-pip install tensorflow 
-pip install nltk 
-pip install joblib
-pip install numpy
-pip install tflearn 
-
-# python version which worked for me :- 3.6.13 ( the upper version raising an error with tensorflow v2 ).
