@@ -1,3 +1,9 @@
+import streamlit as st
+
+st.write("Installing nltk...")
+st.code("pip install nltk")
+st.write("nltk installed!")
+
 import nltk
 import joblib
 from nltk.stem.lancaster import LancasterStemmer
